@@ -1,0 +1,141 @@
+[
+    {
+        "id":1,
+       "title":"Adicolor Classics Joggers",
+       "category": "Dress",
+       "price": 63.85,
+        "image":"/images/products/image1.png",
+        "status": "Best Sellers",
+        "description": "Crafted from high-quality fabric, this dress feels luxurious against the skin, ensuring a delightful wearing experience. Whether for a garden party or an evening soirée, its versatile charm captures attention while exuding an understated sophistication that embodies modern femininity. Accessorize with delicate jewelry and strappy heels to complete a look that exudes timeless elegance and showcases your individuality with poise and grace."
+    },
+    {
+        "id":2,
+       "title":"Bag Bliss: The Ultimate Guide",
+       "category": "Bag",
+       "price": 130.00,
+       "image":"/images/products/image2.png",
+       "status": "Best Sellers",
+       "description": "Tote Bag: A versatile, spacious companion for everyday needs. Crafted from durable materials, it features ample room for essentials, making it perfect for work or leisure. Its sturdy handles offer comfort while carrying heavy loads.Backpack: A functional yet stylish option designed for convenience. Multiple compartments provide organization for tech gadgets, books, or gym gear. Padded straps ensure comfort during extended wear, making it ideal for commuters or students."
+    },
+    {
+        "id":3,
+       "title":"Geometric print Scarf",
+       "category": "Dress",
+       "price": 53.00,
+       "image":"/images/products/image3.png",
+       "status": "Best Sellers",
+       "description": "The fitted waistline cinches gracefully, enhancing the hourglass silhouette while offering comfort and ease of movement. The dress's gentle pleats and subtle A-line flare create a graceful sway with every step, embodying a sense of effortless sophistication."
+    },
+    {
+        "id":4,
+       "title":"Yellow Reserved Hoodie",
+       "category": "Hoodies",
+       "price": 63.85,
+       "image":"/images/products/image4.png",
+       "status": "New Arriaval",
+       "description": "Classic Comfort Hoodie: Crafted from soft, breathable cotton, this classic hoodie is your everyday essential. Its relaxed fit and cozy fleece interior make it perfect for lounging or layering during brisk days . Athleisure Zip-Up Hoodie: Designed for active lifestyles, this zip-up hoodie combines style and functionality. With moisture-wicking fabric and a modern silhouette, it transitions seamlessly from workouts to casual outings."
+    },
+    {
+        "id":5,
+       "title":"Basic Dress Green",
+       "category": "Dress",
+       "price": 236.00,
+       "image":"/images/products/image5.png",
+       "status": "New Arriaval",
+       "description": "Adorn yourself in an enchanting floral-printed chiffon dress, the epitome of feminine grace. This knee-length garment boasts a delicate V-neckline, accentuating elegance and complementing the soft, flowing silhouette. Its ethereal sleeves, adorned with intricate lace detailing, add a touch of romantic allure, gently cascading over the arms for a whimsical effect."
+    },
+    {
+        "id":6,
+       "title":"Nike Air Zoom Pegasus",
+       "category": "Shoe",
+       "price": 198.00,
+       "image":"/images/products/image6.png",
+       "status": "Best Sellers",
+        "description": "Nike Air Zoom Pegasus 38: A versatile running shoe built for comfort and performance. Its responsive cushioning and breathable mesh upper ensure a smooth and supported ride, perfect for both short sprints and long distances. The updated design offers a secure fit and improved traction, enhancing stability on various surfaces."
+    },
+    {
+        "id":7,
+       "title":"Nike Repel Miler",
+       "category": "Hoodies",
+       "price": 120.50,
+       "image":"/images/products/image7.png",
+       "status": "Best Sellers",
+       "description": "Graphic Print Hoodie: Express your unique style with a bold graphic print hoodie. Vibrant designs and high-quality materials create a standout piece, ideal for making a statement while staying comfortable. Cozy Oversized Hoodie: Embrace comfort in an oversized, plush hoodie. Its loose fit and ultra-soft fabric offer a cocoon-like feel, perfect for relaxed evenings or chilly mornings."
+    },
+    {
+        "id":8,
+       "title":"Shady Styles: 10 Must-Have Sunglasses",
+       "category": "Glasses",
+       "price": 180.00,
+       "image":"/images/products/image8.png",
+       "status":"Best Sellers",
+       "description": "Wayfarer Retro: Known for their bold and distinctive style, wayfarer sunglasses boast a chunky frame and trapezoidal lenses. This retro design has made a major comeback in recent years, favored for its edgy yet classic appearance. The wide frame suits many face shapes and sizes, adding a statement piece to any outfit. Wayfarers often come in a range of colors and patterns, allowing wearers to express their personality through their eyewear. These sunglasses offer ample eye coverage and exceptional versatility, making them a go-to choice for those seeking a trendy yet timeless look."
+    },
+    {
+        "id":9,
+       "title":"UV Protection Guide: Safeguarding Eyes ",
+       "category": "Glasses",
+       "price": 100.00,
+       "image":"/images/products/image9.jpg",
+       "description": "Cat-Eye Chic: Cat-eye sunglasses are the epitome of feminine elegance. Their upswept outer edges and distinct shape create a retro-inspired, glamorous appeal. These shades are perfect for adding a touch of vintage flair to any ensemble. They're particularly flattering for heart-shaped or oval faces, accentuating cheekbones and adding a playful charm. Cat-eye sunglasses often feature various frame materials and embellishments, allowing for a wide range of styles—from classic black to bold patterns or even embellished frames. These sunglasses effortlessly blend vintage sophistication with modern fashion, making them a must-have accessory for those seeking a chic and stylish look."
+    },
+    {
+        "id":10,
+       "title":"Sunny Outlook: Choosing the Perfect Sunglasses",
+       "category": "Glasses",
+       "price": 130.00,
+       "image":"/images/products/image10.jpg",
+       "status":"Best Sellers",
+       "description": "Aviator Classic: The timeless aviator design never goes out of style. Its iconic teardrop shape and metal frame exude a cool, vintage vibe. With its versatile appeal, these sunglasses complement various face shapes, offering both fashion and function. The teardrop-shaped lenses provide ample coverage, shielding the eyes from multiple angles. Often featuring polarized lenses, they reduce glare and offer excellent UV protection. The thin metal frames add a touch of sophistication, making them a staple accessory for both casual and formal looks."
+    },
+    {
+        "id":11,
+       "title":"Sunny Outlook: Choosing the Perfect",
+       "category": "Glasses",
+       "price": 160.00,
+       "image":"/images/products/image11.jpg",
+       "description": "Round Boho: Round sunglasses exude a free-spirited, bohemian vibe. Inspired by the '60s and '70s fashion, these shades have a circular frame that offers a unique, laid-back charm. They suit a variety of face shapes but are especially flattering on square or angular faces, softening the features with their rounded silhouette. Round sunglasses often feature thin metal frames or acetate materials, coming in various colors and lens tints. Their relaxed and versatile style makes them perfect for festivals, beach outings, or everyday wear. Embracing a vintage-meets-modern aesthetic, round sunglasses effortlessly blend retro appeal with contemporary fashion, making them a go-to choice for those embracing a bohemian lifestyle."
+    },
+    {
+        "id":12,
+       "title":"Baggage Essentials: Top Picks",
+       "category": "Bag",
+       "price": 150.00,
+       "image":"/images/products/image12.jpg",
+       "description": "Crossbody Bag: A compact, hands-free solution for on-the-go activities. With an adjustable strap, it offers versatility—wear it across the body or on the shoulder. Despite its smaller size, it accommodates essentials and adds a trendy touch to any outfit. Clutch: An elegant evening accessory designed to hold essentials like cards, keys, and makeup. Its sleek design makes it perfect for formal events or nights out, adding a touch of sophistication to any ensemble."
+    },
+    {
+        "id":13,
+       "title":"Carry in Style: Ten Trendy Bags",
+       "category": "Bag",
+       "price": 190.00,
+       "image":"/images/products/image13.jpg",
+       "description": "Duffel Bag: A spacious and durable option tailored for travel or sports. With multiple compartments and sturdy handles, it easily accommodates clothing, shoes, and gear while maintaining a stylish edge. Perfect for weekend getaways or gym sessions."
+    },
+    {
+        "id":14,
+       "title":"Nike Air Zoom Pegasus",
+       "category": "Shoe",
+       "price": 200.00,
+       "image":"/images/products/image14.jpg",
+       "status": "Best Sellers",
+       "description": "Nike Blazer Mid '77 Vintage: A classic sneaker with a retro basketball-inspired design. Its vintage aesthetic, premium leather upper, and autoclave construction deliver a timeless look suitable for casual outings while providing durability and support."
+    },
+    {
+        "id":15,
+       "title":"Nike Air Zoom Pegasus",
+       "category": "Shoe",
+       "price": 280.00,
+       "image":"/images/products/image15.jpg",
+       "description": "Nike React Infinity Run Flyknit: Engineered for runners seeking stability and comfort, this shoe features React foam cushioning for a soft, responsive feel. The Flyknit upper provides a snug fit and breathability while offering support and durability, reducing the risk of injury during runs."
+    },
+    {
+        "id":16,
+       "title":"Nike Air Zoom Pegasus",
+       "category": "Shoe",
+       "price": 358.00,
+       "image":"/images/products/image16.jpg",
+       "description": "Nike Air Max 270: Combining style and functionality, this shoe boasts the tallest Nike Air unit yet, providing exceptional cushioning and impact absorption. The sleek design and mesh upper offer breathability and a modern aesthetic, making it ideal for everyday wear and light workouts."
+    }
+   
+]
