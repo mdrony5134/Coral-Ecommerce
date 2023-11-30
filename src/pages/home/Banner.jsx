@@ -1,5 +1,6 @@
 import { FaShoppingBag } from 'react-icons/fa'
 import bannerImg from '/images/banner.png'
+
 const Banner = () => {
   return (
     <div className='bg-primaryBG py-12 xl:px-28 px-4'>

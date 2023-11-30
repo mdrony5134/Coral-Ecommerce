@@ -30,7 +30,10 @@ const BestSellProducts = () => {
 
   return (
     <div className="max-w-screen-2xl container mx-auto xl:px-28 px-4 mb-12">
-      <h2 className="title mb-12">Best Sells Products</h2>
+     <div className="text-center">
+     <h2 className="title mb-12">Best Sells Products</h2>
+     <p className="text-Black/75 md:w-2/3 mb-12 mx-auto">Discover top-rated essentials loved by shoppers! Explore our Best Sells—a curated collection of trendsetting, high-quality products. Find satisfaction in our customer-favorite selection today!</p>
+     </div>
 
       <Swiper
        slidesPerView={1}

@@ -36,7 +36,7 @@ const Product = () => {
   };
   const showAll = () => {
     setFilteredItems(products);
-    selectCategory("all");
+    setSelectCategory("all");
   };
 
   // sorting functionality
@@ -63,17 +63,17 @@ const Product = () => {
   };
 
   return (
-    <div className="max-w-screen-2xl container mx-auto xl:px-28 px-4 mb-12">
+    <div className="max-w-screen-2xl container mx-auto xl:px-28 px-4 mb-20">
       <h2 className="title">Fashion & Trending Products</h2>
       <div>
         <div className="flex flex-col flex-wrap md:flex-row items-center md:justify-between space-y-3 mb-8">
           <div className="flex flex-row justify-start md:items-center md:gap-8 gap-4 flex-wrap">
-            <button onClick={() => showAll()}>All Products</button>
-            <button onClick={() => filterItems("Dress")}>Clothing</button>
-            <button onClick={() => filterItems("Bag")}>Bag</button>
-            <button onClick={() => filterItems("Hoodies")}>Hoodies</button>
-            <button onClick={() => filterItems("Shoe")}>Shoes</button>
-            <button onClick={() => filterItems("Glasses")}>SunGlasses</button>
+            <button onClick={() => showAll()} className={selectCategory === "all"? "active" : ""}>All Products</button>
+            <button onClick={() => filterItems("Dress")} className={selectCategory === "Dress"? "active" : ""}>Clothing</button>
+            <button onClick={() => filterItems("Bag")} className={selectCategory === "Bag"? "active" : ""}>Bag</button>
+            <button onClick={() => filterItems("Hoodies")} className={selectCategory === "Hoodies"? "active" : ""}>Hoodies</button>
+            <button onClick={() => filterItems("Shoe")} className={selectCategory === "Shoe"? "active" : ""}>Shoes</button>
+            <button onClick={() => filterItems("Glasses")} className={selectCategory === "Glasses"? "active" : ""}>SunGlasses</button>
           </div>
 
           <div className="flex justify-end mb-4 rounded-sm">

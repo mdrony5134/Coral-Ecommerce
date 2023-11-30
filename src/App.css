@@ -7,6 +7,9 @@ body{
   @apply text-3xl font-semibold capitalize text-center my-4
 }
 
+.active{
+  @apply text-orange-600 border-b border-orange-600
+}
  
 
  
