@@ -8,4 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # Coral-Ecommerce
 
+![image](https://github.com/mdrony5134/Coral-Ecommerce/assets/98208421/4cffdb17-5f71-42b4-ad20-73447b2f7b4d)
+
+
 Live Demo: https://coral-ecommerce-site.netlify.app/
