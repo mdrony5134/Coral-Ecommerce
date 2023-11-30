@@ -23,14 +23,14 @@ const Category = () => {
             <p className="bg-Black text-white uppercase font-semibold text-center inline-flex md:px-1.5 p-2 md:-rotate-90 rounded-sm">Explorer new and popular style.</p>
 
             <div>
-                <Link to={"/"}><img src="/public/images/category/image1.png"  className="w-full hover:scale-105 transition-all duration-200"/></Link>
+                <Link to={"/"}><img src="/images/category/image1.png"  className="w-full hover:scale-105 transition-all duration-200"/></Link>
             </div>
             <div className="md:w-1/2">
             <div className="grid grid-cols-2 gap-2">
-             <Link to={"/"}><img src="/public/images/category/image2.png"  className="w-full hover:scale-105 transition-all duration-200"/></Link>
-             <Link to={"/"}><img src="/public/images/category/image3.png"  className="w-full hover:scale-105 transition-all duration-200"/></Link>
-             <Link to={"/"}><img src="/public/images/category/image4.png"  className="w-full hover:scale-105 transition-all duration-200"/></Link>
-             <Link to={"/"}><img src="/public/images/category/image5.png"  className="w-full hover:scale-105 transition-all duration-200"/></Link>
+             <Link to={"/"}><img src="/images/category/image2.png"  className="w-full hover:scale-105 transition-all duration-200"/></Link>
+             <Link to={"/"}><img src="/images/category/image3.png"  className="w-full hover:scale-105 transition-all duration-200"/></Link>
+             <Link to={"/"}><img src="/images/category/image4.png"  className="w-full hover:scale-105 transition-all duration-200"/></Link>
+             <Link to={"/"}><img src="/images/category/image5.png"  className="w-full hover:scale-105 transition-all duration-200"/></Link>
             </div>
             </div>
         </div>
